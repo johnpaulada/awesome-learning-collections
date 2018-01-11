@@ -15,6 +15,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A pretty comprehensive checklist of things to learn and review to prepare for a coding interview.
 * [Open Source Society University Computer Science Path](https://github.com/ossu/computer-science) - Teach yourself Computer Science without spending a dime.
 * [Computer Science Courses with Video Lectures](https://github.com/Developer-Y/cs-video-courses) - *List of Computer Science courses with video lectures*.
+* [Tech Interview Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for technical interviews.
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
