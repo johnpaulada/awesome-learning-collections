@@ -34,3 +34,5 @@ There are a lot of awesome learning collections out there and I've been having d
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
 * [FreeCodeCamp Guides](https://guide.freecodecamp.org) - Articles about programming from FreeCodeCamp and the community.
 * [Lib4Dev Books](http://www.lib4dev.com/topics/book) - Books hosted on GitHub listed by Lib4Dev.* 
+* [GitHub Collections](https://github.com/collections) - *Curated lists and insight into burgeoning industries, topics, and communities.*
+* [Github Topics](https://github.com/topics) - A list of top topics and their corresponding resources on GitHub.
