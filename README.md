@@ -20,6 +20,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Tech Interview Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for technical interviews.
 * [Lib4Dev Algorithms Topic](http://www.lib4dev.com/topics/algorithm) - Algorithm-related repos on GitHub listed by Lib4Dev.
 * [Visualgo](https://visualgo.net/en) - *Visualising data structures and algorithms through animation.*
+* [Khan Academy Computing Courses](https://www.khanacademy.org/computing) - A couple of free courses on Computing by Khan Academy.
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
@@ -40,6 +41,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [CSS Reference](http://cssreference.io/) - *A free guide to CSS.*
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - A short interactive tutorial that teaches web design.
 * [PHP: The Right Way[(http://www.phptherightway.com/) - A collection of PHP best practices.
+* [W3Schools How Tos](https://www.w3schools.com/howto/default.asp) - Collection of tutorials by W3Schools.
+* [Upskill Essential Web Development Course](https://upskillcourses.com/p/essential-web-developer-course) - Learn to build full stack web apps for free.
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -54,6 +57,10 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Awesome List of Top Github Repos](http://www.gitlogs.com/awesome-topics) - *Curated List of Awesome Github Topics.*
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) - A quick check of your skills as a programmer.
 * [Ebook Foundation Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A list of freely available programming books.
+* [*You Don't Need* Github Repo](https://github.com/you-dont-need) - A collection of *You Don't Need* repos like *You Don't Need Javascript*.
+* [Viking Code School Prep](https://www.vikingcodeschool.com/prep) - *Everything you need to begin a career in software engineering. 100% Free.*
+* [Enlight](https://enlight.nyc/) - Learn to program by building projects.
+* [Linux Journey](https://linuxjourney.com/) - *Learn the ways of Linux-fu, for free.*
 
 ## Security
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
@@ -61,3 +68,7 @@ There are a lot of awesome learning collections out there and I've been having d
 ## Others
 * [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
 * [Ivy League MOOCs] - A collection of free courses from Ivy League Universities.
+* [Bookicious Collections](https://www.bookicious.com/collections/) - Book recommendations of famous tech giant founders and CEOs.
+* [Bookcelerator](https://bookcelerator.com/) - Top books that will make you smarter.
+* [Buffer's Social Media Academy](https://buffer.academy/) - *Up your social media marketing game, one article at a time.*
+* [LightNote](https://www.lightnote.co) - Interactive music theory lessons.
