@@ -29,6 +29,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Frontend Dev Bookmarks](https://frontend.directory/) - *Manually curated collection of resources for frontend web developers.*
 * [Frontend Dev Resources](https://github.com/dmytroyarmak/frontend-dev-resources) - *List of useful resources for front end developers.*
 * [BestOfJS Learning Resources](https://bestof.js.org/tags/learning/) - GitHub repos for JavaScript learning.
+* [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - *Step-by-step tutorial to build a modern JavaScript stack.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -36,3 +37,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Lib4Dev Books](http://www.lib4dev.com/topics/book) - Books hosted on GitHub listed by Lib4Dev.
 * [GitHub Collections](https://github.com/collections) - *Curated lists and insight into burgeoning industries, topics, and communities.*
 * [Github Topics](https://github.com/topics) - A list of top topics and their corresponding resources on GitHub.
+* [One Click to be Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - *A list of the best resources to help you become a pro.*
+* [QuickCode](http://www.quickcode.co/) - *A list of free courses to learn any programming language.*
+* [DevFreeBooks](https://devfreebooks.github.io) - *A collection of free books for developers.*
+* [Goal Kicker Free Programming Books](http://goalkicker.com/) - *Programming Notes for Professionals books.*
