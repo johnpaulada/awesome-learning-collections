@@ -43,6 +43,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [PHP: The Right Way[(http://www.phptherightway.com/) - A collection of PHP best practices.
 * [W3Schools How Tos](https://www.w3schools.com/howto/default.asp) - Collection of tutorials by W3Schools.
 * [Upskill Essential Web Development Course](https://upskillcourses.com/p/essential-web-developer-course) - Learn to build full stack web apps for free.
+* [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - Ace your frontend developer interview by reviewing these questions.
+* [Mozilla Developer Network Docs](https://developer.mozilla.org/en-US/) - *Resources for developers, by developers.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -61,6 +63,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Viking Code School Prep](https://www.vikingcodeschool.com/prep) - *Everything you need to begin a career in software engineering. 100% Free.*
 * [Enlight](https://enlight.nyc/) - Learn to program by building projects.
 * [Linux Journey](https://linuxjourney.com/) - *Learn the ways of Linux-fu, for free.*
+* [Exercism](http://exercism.io/) - Level up your programming skills by solving problems in over 30 languages.
 
 ## Security
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
@@ -72,3 +75,4 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Bookcelerator](https://bookcelerator.com/) - Top books that will make you smarter.
 * [Buffer's Social Media Academy](https://buffer.academy/) - *Up your social media marketing game, one article at a time.*
 * [LightNote](https://www.lightnote.co) - Interactive music theory lessons.
+* [Wikibooks by Subject](https://en.wikibooks.org/wiki/Subject:Books_by_subject) - Free books on different subjects.
