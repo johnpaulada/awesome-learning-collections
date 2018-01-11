@@ -7,6 +7,7 @@
 * [Data Science](#data-science)
 * [Web Development](#web-development)
 * [Software Development](#software-development)
+* [Other](#other)
 
 ## Motivation
 There are a lot of awesome learning collections out there and I've been having difficulty in keeping them in one place. So I will curate them here so other people can see and contribute to this. Whenever I encounter an awesome learning collection, I'll add it here.
@@ -43,3 +44,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [QuickCode](http://www.quickcode.co/) - *A list of free courses to learn any programming language.*
 * [DevFreeBooks](https://devfreebooks.github.io) - *A collection of free books for developers.*
 * [Goal Kicker Free Programming Books](http://goalkicker.com/) - *Programming Notes for Professionals books.*
+* [Awesome List of Top Github Repos](http://www.gitlogs.com/awesome-topics) - *Curated List of Awesome Github Topics.*
+
+## Others
+* [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
