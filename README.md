@@ -15,3 +15,4 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) - A curated list of resources for learning Data Science.
