@@ -48,6 +48,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [DevFreeBooks](https://devfreebooks.github.io) - *A collection of free books for developers.*
 * [Goal Kicker Free Programming Books](http://goalkicker.com/) - *Programming Notes for Professionals books.*
 * [Awesome List of Top Github Repos](http://www.gitlogs.com/awesome-topics) - *Curated List of Awesome Github Topics.*
+* [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) - A quick check of your skills as a programmer.
+* [Ebook Foundation Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A list of freely available programming books.
 
 ## Security
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
