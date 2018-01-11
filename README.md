@@ -6,6 +6,7 @@
 * [Computer Science](#computer-science)
 * [Data Science](#data-science)
 * [Web Development](#web-development)
+* [Software Development](#software-development)
 
 ## Motivation
 There are a lot of awesome learning collections out there and I've been having difficulty in keeping them in one place. So I will curate them here so other people can see and contribute to this. Whenever I encounter an awesome learning collection, I'll add it here.
@@ -21,3 +22,6 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Web Development
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
+
+## Software Development
+* [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
