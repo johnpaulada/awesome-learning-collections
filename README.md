@@ -33,6 +33,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [BestOfJS Learning Resources](https://bestof.js.org/tags/learning/) - GitHub repos for JavaScript learning.
 * [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - *Step-by-step tutorial to build a modern JavaScript stack.*
 * [20+ Docs and Guides for Front End Developers Series](https://www.sitepoint.com/20-docs-guides-front-end-developers-12/) - Exactly as the name sounds. Also contains links to the previous articles of the series.
+* [AWS Open Guide](https://github.com/open-guides/og-aws) - A practical guide to AWS.
+* [Search Engineering Open Guide](https://github.com/open-guides/og-search-engineering) - A practical guide to search engineering.
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
