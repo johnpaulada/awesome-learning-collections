@@ -36,6 +36,10 @@ There are a lot of awesome learning collections out there and I've been having d
 * [20+ Docs and Guides for Front End Developers Series](https://www.sitepoint.com/20-docs-guides-front-end-developers-12/) - Exactly as the name sounds. Also contains links to the previous articles of the series.
 * [AWS Open Guide](https://github.com/open-guides/og-aws) - A practical guide to AWS.
 * [Search Engineering Open Guide](https://github.com/open-guides/og-search-engineering) - A practical guide to search engineering.
+* [HTML Reference](http://htmlreference.io/) - *A free guide to HTML.*
+* [CSS Reference](http://cssreference.io/) - *A free guide to CSS.*
+* [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - A short interactive tutorial that teaches web design.
+* [PHP: The Right Way[(http://www.phptherightway.com/) - A collection of PHP best practices.
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -56,3 +60,4 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Others
 * [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
+* [Ivy League MOOCs] - A collection of free courses from Ivy League Universities.
