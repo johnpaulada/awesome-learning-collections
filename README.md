@@ -7,6 +7,7 @@
 * [Data Science](#data-science)
 * [Web Development](#web-development)
 * [Software Development](#software-development)
+* [Security](#security)
 * [Other](#other)
 
 ## Motivation
@@ -47,6 +48,9 @@ There are a lot of awesome learning collections out there and I've been having d
 * [DevFreeBooks](https://devfreebooks.github.io) - *A collection of free books for developers.*
 * [Goal Kicker Free Programming Books](http://goalkicker.com/) - *Programming Notes for Professionals books.*
 * [Awesome List of Top Github Repos](http://www.gitlogs.com/awesome-topics) - *Curated List of Awesome Github Topics.*
+
+## Security
+* [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
 
 ## Others
 * [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
