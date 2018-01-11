@@ -22,6 +22,7 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Web Development
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
+* [What Do I Need to Know to Ace a JavaScript Interview?](https://github.com/adam-s/js-interview-review) - A collection of resources for learning JS to ace an interview.
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
