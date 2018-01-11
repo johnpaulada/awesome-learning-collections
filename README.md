@@ -30,3 +30,4 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
+* [FreeCodeCamp Guides](https://guide.freecodecamp.org) - Articles about programming from FreeCodeCamp and the community.
