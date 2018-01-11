@@ -16,6 +16,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Open Source Society University Computer Science Path](https://github.com/ossu/computer-science) - Teach yourself Computer Science without spending a dime.
 * [Computer Science Courses with Video Lectures](https://github.com/Developer-Y/cs-video-courses) - *List of Computer Science courses with video lectures*.
 * [Tech Interview Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for technical interviews.
+* [Lib4Dev Algorithms Topic](http://www.lib4dev.com/topics/algorithm) - Algorithm-related repos on GitHub listed by Lib4Dev.
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
@@ -32,3 +33,4 @@ There are a lot of awesome learning collections out there and I've been having d
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
 * [FreeCodeCamp Guides](https://guide.freecodecamp.org) - Articles about programming from FreeCodeCamp and the community.
+* [Lib4Dev Books](http://www.lib4dev.com/topics/book) - Books hosted on GitHub listed by Lib4Dev.* 
