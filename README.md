@@ -21,6 +21,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Lib4Dev Algorithms Topic](http://www.lib4dev.com/topics/algorithm) - Algorithm-related repos on GitHub listed by Lib4Dev.
 * [Visualgo](https://visualgo.net/en) - *Visualising data structures and algorithms through animation.*
 * [Khan Academy Computing Courses](https://www.khanacademy.org/computing) - A couple of free courses on Computing by Khan Academy.
+* [The Bit Theories](https://thebittheories.com/) - 3-minute computer science reads.
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Free book on Operating Systems.
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
@@ -76,3 +78,4 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Buffer's Social Media Academy](https://buffer.academy/) - *Up your social media marketing game, one article at a time.*
 * [LightNote](https://www.lightnote.co) - Interactive music theory lessons.
 * [Wikibooks by Subject](https://en.wikibooks.org/wiki/Subject:Books_by_subject) - Free books on different subjects.
+* [150+ Educational Websites form Lifelong Learners](https://medium.com/@imaginetta/150-educational-websites-for-lifelong-learners-71c1d8e94843) - A list of learning websites.
