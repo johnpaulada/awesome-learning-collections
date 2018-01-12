@@ -87,3 +87,4 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Wikibooks by Subject](https://en.wikibooks.org/wiki/Subject:Books_by_subject) - Free books on different subjects.
 * [150+ Educational Websites form Lifelong Learners](https://medium.com/@imaginetta/150-educational-websites-for-lifelong-learners-71c1d8e94843) - A list of learning websites.
 * [Public APIs](https://github.com/toddmotto/public-apis) - *A collective list of public JSON APIs for use in web development.*
+* [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A Curated List of Checklists.*
