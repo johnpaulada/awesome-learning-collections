@@ -28,7 +28,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) - A curated list of resources for learning Data Science.
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials) - A collection of PowerPoint presentations about deep learning.
-* [TensorFlow World Resources](https://github.com/astorfi/TensorFlow-World-Resources) - *Organized & Useful Resources about Deep Learning with TensorFlow.*
+* [TensorFlow World Resources](http://tensorflow-world-resources.readthedocs.io/en/latest/) - *Organized & Useful Resources about Deep Learning with TensorFlow.*
 
 ## Web Development
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
