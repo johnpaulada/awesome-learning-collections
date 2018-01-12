@@ -8,6 +8,7 @@
 * [Web Development](#web-development)
 * [Software Development](#software-development)
 * [Security](#security)
+* [Cryptocurrency](#cryptocurrency)
 * [Other](#other)
 
 ## Motivation
@@ -72,6 +73,10 @@ There are a lot of awesome learning collections out there and I've been having d
 ## Security
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
 
+## Cryptocurrency
+* [Cryptominded](https://cryptominded.com) - *A curated directory of the best cryptocurrency resources.*
+* [CryptoList](https://github.com/coinpride/CryptoList) - *Curated collection of blockchain & cryptocurrency resources.*
+
 ## Others
 * [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
 * [Ivy League MOOCs] - A collection of free courses from Ivy League Universities.
@@ -81,3 +86,4 @@ There are a lot of awesome learning collections out there and I've been having d
 * [LightNote](https://www.lightnote.co) - Interactive music theory lessons.
 * [Wikibooks by Subject](https://en.wikibooks.org/wiki/Subject:Books_by_subject) - Free books on different subjects.
 * [150+ Educational Websites form Lifelong Learners](https://medium.com/@imaginetta/150-educational-websites-for-lifelong-learners-71c1d8e94843) - A list of learning websites.
+* [Public APIs](https://github.com/toddmotto/public-apis) - *A collective list of public JSON APIs for use in web development.*
