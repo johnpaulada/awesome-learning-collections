@@ -44,7 +44,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [HTML Reference](http://htmlreference.io/) - *A free guide to HTML.*
 * [CSS Reference](http://cssreference.io/) - *A free guide to CSS.*
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - A short interactive tutorial that teaches web design.
-* [PHP: The Right Way[(http://www.phptherightway.com/) - A collection of PHP best practices.
+* [PHP: The Right Way](http://www.phptherightway.com/) - A collection of PHP best practices.
 * [W3Schools How Tos](https://www.w3schools.com/howto/default.asp) - Collection of tutorials by W3Schools.
 * [Upskill Essential Web Development Course](https://upskillcourses.com/p/essential-web-developer-course) - Learn to build full stack web apps for free.
 * [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - Ace your frontend developer interview by reviewing these questions.
