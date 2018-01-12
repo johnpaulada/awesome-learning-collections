@@ -48,6 +48,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Upskill Essential Web Development Course](https://upskillcourses.com/p/essential-web-developer-course) - Learn to build full stack web apps for free.
 * [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - Ace your frontend developer interview by reviewing these questions.
 * [Mozilla Developer Network Docs](https://developer.mozilla.org/en-US/) - *Resources for developers, by developers.*
+* [30 Seconds of Code](https://30secondsofcode.org/) - *Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
