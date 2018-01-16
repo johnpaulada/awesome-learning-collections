@@ -50,6 +50,10 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - Ace your frontend developer interview by reviewing these questions.
 * [Mozilla Developer Network Docs](https://developer.mozilla.org/en-US/) - *Resources for developers, by developers.*
 * [30 Seconds of Code](https://30secondsofcode.org/) - *Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.*
+* [Best of JS](https://bestof.js.org/) - *Check out the most popular open-source projects and the latest trends about the web platform and node.js.*
+* [Spellbook for Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - *A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.*
+* [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - *Step-by-step tutorial to build a modern JavaScript stack.*
+* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer.
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -82,6 +86,7 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Others
 * [Learn Anything](https://learn-anything.xyz/) - *the platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.*
+* [YouTube Creator Academy](https://creatoracademy.youtube.com/) - Learn how to be a great YouTube content creator.
 * [Product Hunt Curated Resources](https://www.producthunt.com/search?q=curated%20resource) - Curated resource lists showcased in Product Hunt.
 * [Wisdom Curated](http://wisdomcurated.com/) - A curated list of learning resources about life.
 * [Boundless](https://courses.lumenlearning.com/catalog/boundlesscourses) - Free legit textbooks.
