@@ -69,6 +69,9 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Enlight](https://enlight.nyc/) - Learn to program by building projects.
 * [Linux Journey](https://linuxjourney.com/) - *Learn the ways of Linux-fu, for free.*
 * [Exercism](http://exercism.io/) - Level up your programming skills by solving problems in over 30 languages.
+* [Google Codelabs](https://codelabs.developers.google.com/) - Step by step coding guides from Google.
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
+* [Amit's Game Programming Info](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Gems.
 
 ## Security
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
@@ -78,6 +81,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [CryptoList](https://github.com/coinpride/CryptoList) - *Curated collection of blockchain & cryptocurrency resources.*
 
 ## Others
+* [Learn Anything](https://learn-anything.xyz/) - *the platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.*
+* [Boundless](https://courses.lumenlearning.com/catalog/boundlesscourses) - Free legit textbooks.
 * [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
 * [Ivy League MOOCs] - A collection of free courses from Ivy League Universities.
 * [Bookicious Collections](https://www.bookicious.com/collections/) - Book recommendations of famous tech giant founders and CEOs.
