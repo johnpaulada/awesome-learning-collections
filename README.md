@@ -86,7 +86,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Wisdom Curated](http://wisdomcurated.com/) - A curated list of learning resources about life.
 * [Boundless](https://courses.lumenlearning.com/catalog/boundlesscourses) - Free legit textbooks.
 * [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
-* [Ivy League MOOCs] - A collection of free courses from Ivy League Universities.
+* [Ivy League MOOCs](https://www.class-central.com/collection/ivy-league-moocs) - A collection of free courses from Ivy League Universities.
 * [Bookicious Collections](https://www.bookicious.com/collections/) - Book recommendations of famous tech giant founders and CEOs.
 * [Bookcelerator](https://bookcelerator.com/) - Top books that will make you smarter.
 * [Buffer's Social Media Academy](https://buffer.academy/) - *Up your social media marketing game, one article at a time.*
