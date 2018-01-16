@@ -82,6 +82,8 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Others
 * [Learn Anything](https://learn-anything.xyz/) - *the platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.*
+* [Product Hunt Curated Resources](https://www.producthunt.com/search?q=curated%20resource) - Curated resource lists showcased in Product Hunt.
+* [Wisdom Curated](http://wisdomcurated.com/) - A curated list of learning resources about life.
 * [Boundless](https://courses.lumenlearning.com/catalog/boundlesscourses) - Free legit textbooks.
 * [Warren](https://github.com/torchhound/warren) - A curated list of rabbitholes.
 * [Ivy League MOOCs] - A collection of free courses from Ivy League Universities.
