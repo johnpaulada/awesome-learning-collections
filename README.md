@@ -25,6 +25,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Khan Academy Computing Courses](https://www.khanacademy.org/computing) - A couple of free courses on Computing by Khan Academy.
 * [The Bit Theories](https://thebittheories.com/) - 3-minute computer science reads.
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Free book on Operating Systems.
+* [Computer Science: A Full Bachelor Curriculum](https://mindweb.network/board/computer-science-a-full-bachelor-curriculum) - *This board is a collection of free online courses that will provide you with the same knowledge that you would otherwise receive by earning a full Bachelor of Science in Computer Science from one of the top technical universities in the world.*
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
