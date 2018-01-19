@@ -82,6 +82,7 @@ There are a lot of awesome learning collections out there and I've been having d
 browse curated lists on GitHub.*
 * [Public APIs](https://github.com/toddmotto/public-apis) - *A collective list of public JSON APIs for use in web development.*
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - *Some useful websites for programmers.*
+* [Rico's Cheatsheets](https://devhints.io/) - A bunch of beautiful cheatsheets.
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
