@@ -7,6 +7,7 @@
 * [Data Science](#data-science)
 * [Web Development](#web-development)
 * [Software Development](#software-development)
+* [Game Development](#game-development)
 * [Security](#security)
 * [Cryptocurrency](#cryptocurrency)
 * [Other](#other)
@@ -74,6 +75,11 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Linux Journey](https://linuxjourney.com/) - *Learn the ways of Linux-fu, for free.*
 * [Exercism](http://exercism.io/) - Level up your programming skills by solving problems in over 30 languages.
 * [Google Codelabs](https://codelabs.developers.google.com/) - Step by step coding guides from Google.
+* [List.community](https://list.community/) - *List.community is an easy way to
+browse curated lists on GitHub.*
+* [Public APIs](https://github.com/toddmotto/public-apis) - *A collective list of public JSON APIs for use in web development.*
+
+## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
 * [Amit's Game Programming Info](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Gems.
 
@@ -98,5 +104,4 @@ There are a lot of awesome learning collections out there and I've been having d
 * [LightNote](https://www.lightnote.co) - Interactive music theory lessons.
 * [Wikibooks by Subject](https://en.wikibooks.org/wiki/Subject:Books_by_subject) - Free books on different subjects.
 * [150+ Educational Websites form Lifelong Learners](https://medium.com/@imaginetta/150-educational-websites-for-lifelong-learners-71c1d8e94843) - A list of learning websites.
-* [Public APIs](https://github.com/toddmotto/public-apis) - *A collective list of public JSON APIs for use in web development.*
 * [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A Curated List of Checklists.*
