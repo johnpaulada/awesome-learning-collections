@@ -83,6 +83,7 @@ browse curated lists on GitHub.*
 * [Public APIs](https://github.com/toddmotto/public-apis) - *A collective list of public JSON APIs for use in web development.*
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - *Some useful websites for programmers.*
 * [Rico's Cheatsheets](https://devhints.io/) - A bunch of beautiful cheatsheets.
+* [Learn X in Y Minutes](https://learnxinyminutes.com/) - Learn most of a language's syntax in one program.
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
