@@ -27,6 +27,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Free book on Operating Systems.
 * [Computer Science: A Full Bachelor Curriculum](https://mindweb.network/board/computer-science-a-full-bachelor-curriculum) - *This board is a collection of free online courses that will provide you with the same knowledge that you would otherwise receive by earning a full Bachelor of Science in Computer Science from one of the top technical universities in the world.*
 * [Interviews](https://github.com/kdn251/interviews) - *Everything you need to get the job.*
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - *A curated collection of marketing articles & tools to grow your product.*
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
