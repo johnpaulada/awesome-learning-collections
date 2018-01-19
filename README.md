@@ -56,6 +56,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Spellbook for Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - *A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.*
 * [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - *Step-by-step tutorial to build a modern JavaScript stack.*
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer.
+* [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - *Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
