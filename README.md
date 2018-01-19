@@ -84,6 +84,7 @@ browse curated lists on GitHub.*
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - *Some useful websites for programmers.*
 * [Rico's Cheatsheets](https://devhints.io/) - A bunch of beautiful cheatsheets.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Learn most of a language's syntax in one program.
+* [Hackr](https://hackr.io/) - *Find the Best programming Courses & Tutorials.*
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
