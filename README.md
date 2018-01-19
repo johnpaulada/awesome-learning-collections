@@ -107,3 +107,4 @@ browse curated lists on GitHub.*
 * [Wikibooks by Subject](https://en.wikibooks.org/wiki/Subject:Books_by_subject) - Free books on different subjects.
 * [150+ Educational Websites form Lifelong Learners](https://medium.com/@imaginetta/150-educational-websites-for-lifelong-learners-71c1d8e94843) - A list of learning websites.
 * [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A Curated List of Checklists.*
+* [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - *Books that will blow your mind.*
