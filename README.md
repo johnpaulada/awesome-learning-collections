@@ -34,6 +34,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials) - A collection of PowerPoint presentations about deep learning.
 * [TensorFlow World Resources](http://tensorflow-world-resources.readthedocs.io/en/latest/) - *Organized & Useful Resources about Deep Learning with TensorFlow.*
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A practical approach to machine learning.
+* [Data Science Cheatsheets](https://www.datacamp.com/community/data-science-cheatsheets) - Learn data science tools by checking out these cheatsheets.
 
 ## Web Development
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
