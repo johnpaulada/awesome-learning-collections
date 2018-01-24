@@ -1,7 +1,7 @@
 # Awesome Learning Collections
 *A curated list of awesome learning collections on various topics.* [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### Table of Contents
+### Contents
 * [Motivation](#motivation)
 * [Computer Science](#computer-science)
 * [Data Science](#data-science)
@@ -27,6 +27,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Free book on Operating Systems.
 * [Computer Science: A Full Bachelor Curriculum](https://mindweb.network/board/computer-science-a-full-bachelor-curriculum) - *This board is a collection of free online courses that will provide you with the same knowledge that you would otherwise receive by earning a full Bachelor of Science in Computer Science from one of the top technical universities in the world.*
 * [Interviews](https://github.com/kdn251/interviews) - *Everything you need to get the job.*
+* [Awesome Computer Science Opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - *An awesome list of events and fellowship opportunities for Computer Science students.*
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
