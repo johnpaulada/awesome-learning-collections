@@ -119,3 +119,4 @@ browse curated lists on GitHub.*
 * [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A Curated List of Checklists.*
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - *Books that will blow your mind.*
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - *A curated collection of marketing articles & tools to grow your product.*
+* [Google Primer](https://www.yourprimer.com/) - *Bite-sized lessons to better your business.*
