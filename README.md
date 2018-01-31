@@ -1,5 +1,6 @@
 # Awesome Learning Collections
 *A curated list of awesome learning collections on various topics.* [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnpaulada%2Fawesome-learning-collections.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnpaulada%2Fawesome-learning-collections?ref=badge_shield)
 
 ### Contents
 * [Motivation](#motivation)
@@ -122,3 +123,7 @@ browse curated lists on GitHub.*
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - *Books that will blow your mind.*
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - *A curated collection of marketing articles & tools to grow your product.*
 * [Google Primer](https://www.yourprimer.com/) - *Bite-sized lessons to better your business.*
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnpaulada%2Fawesome-learning-collections.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnpaulada%2Fawesome-learning-collections?ref=badge_large)
