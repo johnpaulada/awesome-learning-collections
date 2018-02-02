@@ -32,6 +32,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Minimal Python DS & Algorithms](https://github.com/keon/algorithms) - *Minimal examples of data structures and algorithms in Python.*
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - *Interactive Python coding interview challenges (algorithms and data structures).*
 * [Data Structures and Algorithms Problems](http://www.techiedelight.com/list-of-problems/) - A list of DS and algorithm problems you can do in any language.
+* [Competitive Programming Curriculum](https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum) - A list of resources for learning competitive programming.
+* [Competitive Programming Worksheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1778914663) - A spreadsheet with exercises and learning resources for competitive programming.
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
@@ -95,6 +97,7 @@ browse curated lists on GitHub.*
 * [Hackr](https://hackr.io/) - *Find the Best programming Courses & Tutorials.*
 * [Daily Programmer on Reddit](https://www.reddit.com/r/dailyprogrammer/) - Great daily programmer challenges on Reddit.
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) - Learn design patterns without the blood, sweat, and tears.
+* [Mega Project List](https://github.com/karan/Projects) - *A list of practical projects that anyone can solve in any programming language.*
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
