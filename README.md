@@ -28,6 +28,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Computer Science: A Full Bachelor Curriculum](https://mindweb.network/board/computer-science-a-full-bachelor-curriculum) - *This board is a collection of free online courses that will provide you with the same knowledge that you would otherwise receive by earning a full Bachelor of Science in Computer Science from one of the top technical universities in the world.*
 * [Interviews](https://github.com/kdn251/interviews) - *Everything you need to get the job.*
 * [Awesome Computer Science Opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - *An awesome list of events and fellowship opportunities for Computer Science students.*
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview.*
+* [Minimal Python DS & Algorithms](https://github.com/keon/algorithms) - *Minimal examples of data structures and algorithms in Python.*
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
@@ -89,6 +91,8 @@ browse curated lists on GitHub.*
 * [Rico's Cheatsheets](https://devhints.io/) - A bunch of beautiful cheatsheets.
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - Learn most of a language's syntax in one program.
 * [Hackr](https://hackr.io/) - *Find the Best programming Courses & Tutorials.*
+* [Daily Programmer on Reddit](https://www.reddit.com/r/dailyprogrammer/) - Great daily programmer challenges on Reddit.
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) - Learn design patterns without the blood, sweat, and tears.
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
