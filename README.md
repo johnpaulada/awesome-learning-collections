@@ -30,6 +30,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Awesome Computer Science Opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - *An awesome list of events and fellowship opportunities for Computer Science students.*
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview.*
 * [Minimal Python DS & Algorithms](https://github.com/keon/algorithms) - *Minimal examples of data structures and algorithms in Python.*
+* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - *Interactive Python coding interview challenges (algorithms and data structures).*
+* [Data Structures and Algorithms Problems](http://www.techiedelight.com/list-of-problems/) - A list of DS and algorithm problems you can do in any language.
 
 ## Data Science
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
