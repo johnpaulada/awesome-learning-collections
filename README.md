@@ -72,6 +72,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - *Step-by-step tutorial to build a modern JavaScript stack.*
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer.
 * [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - *Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.*
+* [Grab Frontend Guide](https://github.com/grab/front-end-guide) - *Study guide and introduction to the modern front end stack.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -103,6 +104,7 @@ browse curated lists on GitHub.*
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) - Learn design patterns without the blood, sweat, and tears.
 * [Mega Project List](https://github.com/karan/Projects) - *A list of practical projects that anyone can solve in any programming language.*
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - * A collection of (mostly) technical things every software developer should know.*
+* [Codemy](https://www.codemy.net/) - *Our goal is to provide quality, free and / or highly accessible content that anyone can use to build or grow their skills.*
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
