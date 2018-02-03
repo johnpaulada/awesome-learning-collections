@@ -73,6 +73,10 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer.
 * [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - *Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.*
 * [Grab Frontend Guide](https://github.com/grab/front-end-guide) - *Study guide and introduction to the modern front end stack.*
+* [Interneting Is Hard But It Doesn't Have To Be](https://internetingishard.com/) - Friendly web development tutorials for complete beginners for Free.
+* [Exploring JS](http://exploringjs.com/) - In-depth online books on JavaScript by Dr. Axel Rauschmayer. Free as in beer.
+* [ES6 Katas](http://es6katas.org/) - *Learn ES6 by doing it. Fix failing tests. Keep all learnings.*
+* [React Bots](https://vasanthk.gitbooks.io/react-bits/) - *A compilation of React Patterns, techniques, tips and tricks.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -105,6 +109,7 @@ browse curated lists on GitHub.*
 * [Mega Project List](https://github.com/karan/Projects) - *A list of practical projects that anyone can solve in any programming language.*
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - * A collection of (mostly) technical things every software developer should know.*
 * [Codemy](https://www.codemy.net/) - *Our goal is to provide quality, free and / or highly accessible content that anyone can use to build or grow their skills.*
+* [Essential Image Optimization](https://images.guide/) - A modern guide to image optimization.
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
