@@ -4,6 +4,7 @@
   <p>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   </p>
+  <p><sub>Built with ❤️ by <a href="https://github.com/johnpaulada">John Paul Ada</a></sub></p>
 </div>
 
 ### Contents
