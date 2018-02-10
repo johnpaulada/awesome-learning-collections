@@ -1,5 +1,10 @@
-# Awesome Learning Collections
-*A curated list of awesome learning collections on various topics.* [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <h1>📚 Awesome Learning Collections 📚</h1>
+  <p><em>A curated list of awesome learning collections on various topics.</em></p>
+  <p>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  </p>
+</div>
 
 ### Contents
 * [Motivation](#motivation)
