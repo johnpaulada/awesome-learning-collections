@@ -16,6 +16,7 @@
 * [Game Development](#game-development)
 * [Security](#security)
 * [Cryptocurrency](#cryptocurrency)
+* [Business](#business)
 * [Other](#other)
 
 ## Motivation
@@ -128,6 +129,11 @@ browse curated lists on GitHub.*
 * [Cryptominded](https://cryptominded.com) - *A curated directory of the best cryptocurrency resources.*
 * [CryptoList](https://github.com/coinpride/CryptoList) - *Curated collection of blockchain & cryptocurrency resources.*
 
+## Business
+* [Buffer's Social Media Academy](https://buffer.academy/) - *Up your social media marketing game, one article at a time.*
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - *A curated collection of marketing articles & tools to grow your product.*
+* [Google Primer](https://www.yourprimer.com/) - *Bite-sized lessons to better your business.*
+
 ## Others
 * [Explorable Explanations](http://explorabl.es/) - A collection of interactive learning resources.
 * [Athena](https://www.athena.cool/) - *Athena is a community-curated repository of 🔥 learning resources.*
@@ -141,11 +147,8 @@ browse curated lists on GitHub.*
 * [Ivy League MOOCs](https://www.class-central.com/collection/ivy-league-moocs) - A collection of free courses from Ivy League Universities.
 * [Bookicious Collections](https://www.bookicious.com/collections/) - Book recommendations of famous tech giant founders and CEOs.
 * [Bookcelerator](https://bookcelerator.com/) - Top books that will make you smarter.
-* [Buffer's Social Media Academy](https://buffer.academy/) - *Up your social media marketing game, one article at a time.*
 * [LightNote](https://www.lightnote.co) - Interactive music theory lessons.
 * [Wikibooks by Subject](https://en.wikibooks.org/wiki/Subject:Books_by_subject) - Free books on different subjects.
 * [150+ Educational Websites form Lifelong Learners](https://medium.com/@imaginetta/150-educational-websites-for-lifelong-learners-71c1d8e94843) - A list of learning websites.
 * [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist) - *A Curated List of Checklists.*
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - *Books that will blow your mind.*
-* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - *A curated collection of marketing articles & tools to grow your product.*
-* [Google Primer](https://www.yourprimer.com/) - *Bite-sized lessons to better your business.*
