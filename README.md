@@ -124,6 +124,7 @@ browse curated lists on GitHub.*
 
 ## Security
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
+* [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - *An Information Security Reference That Doesn't Suck.*
 
 ## Cryptocurrency
 * [Cryptominded](https://cryptominded.com) - *A curated directory of the best cryptocurrency resources.*
