@@ -121,6 +121,7 @@ browse curated lists on GitHub.*
 * [Codemy](https://www.codemy.net/) - *Our goal is to provide quality, free and / or highly accessible content that anyone can use to build or grow their skills.*
 * [Essential Image Optimization](https://images.guide/) - A modern guide to image optimization.
 * [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
+* [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - *Awesome cheatsheets for popular programming languages, frameworks and development tools.*
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
