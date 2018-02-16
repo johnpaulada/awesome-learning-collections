@@ -17,7 +17,7 @@
 * [Security](#security)
 * [Cryptocurrency](#cryptocurrency)
 * [Business](#business)
-* [Other](#other)
+* [Others](#others)
 
 ## Motivation
 There are a lot of awesome learning collections out there and I've been having difficulty in keeping them in one place. So I will curate them here so other people can see and contribute to this. Whenever I encounter an awesome learning collection, I'll add it here.
