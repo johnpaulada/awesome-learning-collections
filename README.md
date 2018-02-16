@@ -86,6 +86,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [ES6 Katas](http://es6katas.org/) - *Learn ES6 by doing it. Fix failing tests. Keep all learnings.*
 * [React Bots](https://vasanthk.gitbooks.io/react-bits/) - *A compilation of React Patterns, techniques, tips and tricks.*
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) - *Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.*
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *This is a series of books diving deep into the core mechanisms of the JavaScript language.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
