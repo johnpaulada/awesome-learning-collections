@@ -84,6 +84,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Exploring JS](http://exploringjs.com/) - In-depth online books on JavaScript by Dr. Axel Rauschmayer. Free as in beer.
 * [ES6 Katas](http://es6katas.org/) - *Learn ES6 by doing it. Fix failing tests. Keep all learnings.*
 * [React Bots](https://vasanthk.gitbooks.io/react-bits/) - *A compilation of React Patterns, techniques, tips and tricks.*
+* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) - *Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -117,6 +118,7 @@ browse curated lists on GitHub.*
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - * A collection of (mostly) technical things every software developer should know.*
 * [Codemy](https://www.codemy.net/) - *Our goal is to provide quality, free and / or highly accessible content that anyone can use to build or grow their skills.*
 * [Essential Image Optimization](https://images.guide/) - A modern guide to image optimization.
+* [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
