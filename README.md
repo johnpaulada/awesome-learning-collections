@@ -47,6 +47,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Geeks For Geeks](https://www.geeksforgeeks.org/) - *A computer science portal for geeks.*
 
 ## Data Science
+* [My Alcamy Data Science Library](https://alcamy.org/library/data-science) - An Alcamy library for learning data science, curated by me.
 * [Open Source Society University Data Science Path](https://github.com/ossu/data-science) - Teach yourself Data Science without spending a dime!
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) - A curated list of resources for learning Data Science.
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials) - A collection of PowerPoint presentations about deep learning.
