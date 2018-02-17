@@ -77,7 +77,6 @@ There are a lot of awesome learning collections out there and I've been having d
 * [30 Seconds of Code](https://30secondsofcode.org/) - *Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.*
 * [Best of JS](https://bestof.js.org/) - *Check out the most popular open-source projects and the latest trends about the web platform and node.js.*
 * [Spellbook for Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - *A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.*
-* [JS Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - *Step-by-step tutorial to build a modern JavaScript stack.*
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer.
 * [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - *Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.*
 * [Grab Frontend Guide](https://github.com/grab/front-end-guide) - *Study guide and introduction to the modern front end stack.*
