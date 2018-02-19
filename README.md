@@ -86,6 +86,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [React Bots](https://vasanthk.gitbooks.io/react-bits/) - *A compilation of React Patterns, techniques, tips and tricks.*
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) - *Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - *This is a series of books diving deep into the core mechanisms of the JavaScript language.*
+* [Glitch Web Starter Kit](https://glitch.com/website-starter-kit) - *A free, 4-part video course with interactive code examples to learn to make a website using HTML, JS, CSS and Node.js.*
+* [Glitch React Starter Kit](https://glitch.com/react-starter-kit) - *A free, 5-part video course with interactive code examples that will help you learn React.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
