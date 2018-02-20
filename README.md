@@ -46,6 +46,11 @@ There are a lot of awesome learning collections out there and I've been having d
 * [AlgoWiki](https://github.com/vicky002/AlgoWiki) - *Repository which contains links and resources on different topics of Computer Science.*
 * [Geeks For Geeks](https://www.geeksforgeeks.org/) - *A computer science portal for geeks.*
 * [Algorithms, etc.](http://jeffe.cs.illinois.edu/teaching/algorithms/) - *Algorithms notes by [Jeff Erickson](http://www.cs.illinois.edu/~jeffe).*
+* [Coding Interview Topic on Github](https://github.com/topics/coding-interviews)
+* [Competitive Programming Topic on Github](https://github.com/topics/competitive-programming)
+* [Interview repo by @andreis](https://github.com/andreis/interview) - *Everything you need to prepare for your technical interview.*
+* [Interview Topic on Github](https://github.com/topics/interview)
+* [Algorithm Topic on Github](https://github.com/topics/algorithm)
 
 ## Data Science
 * [My Alcamy Data Science Library](https://alcamy.org/library/data-science) - An Alcamy library for learning data science, curated by me.
