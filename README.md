@@ -129,6 +129,7 @@ browse curated lists on GitHub.*
 * [Essential Image Optimization](https://images.guide/) - A modern guide to image optimization.
 * [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
 * [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - *Awesome cheatsheets for popular programming languages, frameworks and development tools.*
+* [30 Seconds of Python Code](https://github.com/kriadmin/30-seconds-of-python-code) - *Python implementation of 30-seconds-of-code.*
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
