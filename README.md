@@ -51,6 +51,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Interview repo by @andreis](https://github.com/andreis/interview) - *Everything you need to prepare for your technical interview.*
 * [Interview Topic on Github](https://github.com/topics/interview)
 * [Algorithm Topic on Github](https://github.com/topics/algorithm)
+* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) - Learning CS concepts and coding interviews from YK Sugishita. 
 
 ## Data Science
 * [My Alcamy Data Science Library](https://alcamy.org/library/data-science) - An Alcamy library for learning data science, curated by me.
