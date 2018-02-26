@@ -153,6 +153,7 @@ browse curated lists on GitHub.*
 * [Explorable Explanations](http://explorabl.es/) - A collection of interactive learning resources.
 * [Athena](https://www.athena.cool/) - *Athena is a community-curated repository of 🔥 learning resources.*
 * [Learn Anything](https://learn-anything.xyz/) - *the platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.*
+* [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - A pretty collection of awesome lists.
 * [Courseroot](https://courseroot.com/) - *The biggest database of online courses for you to filter through based on price, difficulty, certificate quality, and more.*
 * [YouTube Creator Academy](https://creatoracademy.youtube.com/) - Learn how to be a great YouTube content creator.
 * [Product Hunt Curated Resources](https://www.producthunt.com/search?q=curated%20resource) - Curated resource lists showcased in Product Hunt.
