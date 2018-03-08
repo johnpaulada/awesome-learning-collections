@@ -13,6 +13,7 @@
 * [Data Science](#data-science)
 * [Web Development](#web-development)
 * [Software Development](#software-development)
+* [Design](#design)
 * [Game Development](#game-development)
 * [Security](#security)
 * [Cryptocurrency](#cryptocurrency)
@@ -103,6 +104,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Glitch React Starter Kit](https://glitch.com/react-starter-kit) - *A free, 5-part video course with interactive code examples that will help you learn React.*
 * [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) - *A collection of front end resources, tutorials, codepens and articles.*
 * [Modern JavaScript](https://javascript.info/) - *How it's done now. From the basics to advanced topics with simple, but detailed explanations.*
+* [Cloud Native Landscape](https://landscape.cncf.io/grouping=landscape&license=open-source&sort=stars) - All the popular software for working in the cloud.
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
