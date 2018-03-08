@@ -102,6 +102,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Glitch Web Starter Kit](https://glitch.com/website-starter-kit) - *A free, 4-part video course with interactive code examples to learn to make a website using HTML, JS, CSS and Node.js.*
 * [Glitch React Starter Kit](https://glitch.com/react-starter-kit) - *A free, 5-part video course with interactive code examples that will help you learn React.*
 * [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) - *A collection of front end resources, tutorials, codepens and articles.*
+* [Modern JavaScript](https://javascript.info/) - *How it's done now. From the basics to advanced topics with simple, but detailed explanations.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
@@ -147,6 +148,9 @@ browse curated lists on GitHub.*
 ## Security
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
 * [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - *An Information Security Reference That Doesn't Suck.*
+* [Hacker 101](https://www.hacker101.com/) - *Hacker101 is a free class for web security.*
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - *A collection of various awesome lists for hackers, pentesters and security researchers.*
+* [Free Security Books](https://github.com/Hack-with-Github/Free-Security-eBooks) - *Free Security and Hacking eBooks.*
 
 ## Cryptocurrency
 * [Cryptominded](https://cryptominded.com) - *A curated directory of the best cryptocurrency resources.*
