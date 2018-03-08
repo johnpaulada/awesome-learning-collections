@@ -53,6 +53,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Algorithm Topic on Github](https://github.com/topics/algorithm)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) - Learning CS concepts and coding interviews from YK Sugishita. 
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) - *Bootstrap yourself to write an OS from scratch. A book for self-learner.*
+* [SICP Course](https://github.com/creactiviti/sicp-course) - Self-paced course on Structure and Interpretation of Computer Programs.
 
 ## Data Science
 * [My Alcamy Data Science Library](https://alcamy.org/library/data-science) - An Alcamy library for learning data science, curated by me.
@@ -66,6 +67,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Learn with Google AI](https://ai.google/education/#?modal_active=none) - *Educational resources from machine learning experts at Google.*
 * [Fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/) - *Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down.*
 * [Fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html) - *Learn the latest developments in deep learning, how to read and implement new academic papers, and how to solve challenging end-to-end problems such as natual language translation.*
+* [Rahul Kumar's Awesome AI Bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - *Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.*
 
 ## Web Development
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
@@ -136,6 +138,7 @@ browse curated lists on GitHub.*
 * [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
 * [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - *Awesome cheatsheets for popular programming languages, frameworks and development tools.*
 * [30 Seconds of Python Code](https://github.com/kriadmin/30-seconds-of-python-code) - *Python implementation of 30-seconds-of-code.*
+* [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - *Roadmap to becoming an iOS developer in 2018.*
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
