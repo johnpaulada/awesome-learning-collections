@@ -141,6 +141,11 @@ browse curated lists on GitHub.*
 * [30 Seconds of Python Code](https://github.com/kriadmin/30-seconds-of-python-code) - *Python implementation of 30-seconds-of-code.*
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - *Roadmap to becoming an iOS developer in 2018.*
 
+## Design
+* [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
+* [Good User Interface](http://www.goodui.org/) - What makes a good user interface?
+* [CSS Grid](https://cssgrid.io/) - *Learn CSS Grid with Wes Bos in 25 pretty good videos.*
+
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - A collection of game programming patterns.
 * [Amit's Game Programming Info](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Gems.
