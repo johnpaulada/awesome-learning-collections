@@ -63,6 +63,9 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A practical approach to machine learning.
 * [Data Science Cheatsheets](https://www.datacamp.com/community/data-science-cheatsheets) - Learn data science tools by checking out these cheatsheets.
 * [Kaggle Learn](https://www.kaggle.com/learn/overview) - Learn Hands-On Machine Learning, Deep Learning, and more!
+* [Learn with Google AI](https://ai.google/education/#?modal_active=none) - *Educational resources from machine learning experts at Google.*
+* [Fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/) - *Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down.*
+* [Fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html) - *Learn the latest developments in deep learning, how to read and implement new academic papers, and how to solve challenging end-to-end problems such as natual language translation.*
 
 ## Web Development
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
