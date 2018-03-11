@@ -13,6 +13,7 @@
 * [Data Science](#data-science)
 * [Web Development](#web-development)
 * [Software Development](#software-development)
+* [Languages](#languages)
 * [Design](#design)
 * [Game Development](#game-development)
 * [Security](#security)
@@ -148,6 +149,7 @@ browse curated lists on GitHub.*
 
 ## Languages
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list) - *A curated selection of blog posts on Go.*
+* [Go Performance Book](https://github.com/dgryski/go-perfbook) - *Thoughts on Go performance optimization.*
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
