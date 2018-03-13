@@ -144,12 +144,12 @@ browse curated lists on GitHub.*
 * [Essential Image Optimization](https://images.guide/) - A modern guide to image optimization.
 * [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
 * [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - *Awesome cheatsheets for popular programming languages, frameworks and development tools.*
-* [30 Seconds of Python Code](https://github.com/kriadmin/30-seconds-of-python-code) - *Python implementation of 30-seconds-of-code.*
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - *Roadmap to becoming an iOS developer in 2018.*
 
 ## Languages
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list) - *A curated selection of blog posts on Go.*
 * [Go Performance Book](https://github.com/dgryski/go-perfbook) - *Thoughts on Go performance optimization.*
+* [30 Seconds of Python Code](https://github.com/kriadmin/30-seconds-of-python-code) - *Python implementation of 30-seconds-of-code.*
 * [30 Seconds of Java](https://github.com/shekhargulati/30-seconds-of-java) - *Curated collection of useful little Java functions that you can understand quickly.*
 
 ## Design
