@@ -150,6 +150,7 @@ browse curated lists on GitHub.*
 ## Languages
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list) - *A curated selection of blog posts on Go.*
 * [Go Performance Book](https://github.com/dgryski/go-perfbook) - *Thoughts on Go performance optimization.*
+* [30 Seconds of Java](https://github.com/shekhargulati/30-seconds-of-java) - *Curated collection of useful little Java functions that you can understand quickly.*
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
