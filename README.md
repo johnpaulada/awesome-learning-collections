@@ -178,6 +178,7 @@ browse curated lists on GitHub.*
 * [Google Primer](https://www.yourprimer.com/) - *Bite-sized lessons to better your business.*
 
 ## Others
+* [Where is Sci-Hub?](https://whereisscihub.herokuapp.com/) - Tells you where Sci-Hub is hosted right now. 
 * [Explorable Explanations](http://explorabl.es/) - A collection of interactive learning resources.
 * [Athena](https://www.athena.cool/) - *Athena is a community-curated repository of 🔥 learning resources.*
 * [Learn Anything](https://learn-anything.xyz/) - *the platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.*
