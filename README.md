@@ -145,6 +145,7 @@ browse curated lists on GitHub.*
 * [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
 * [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - *Awesome cheatsheets for popular programming languages, frameworks and development tools.*
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - *Roadmap to becoming an iOS developer in 2018.*
+* [Exercises in Programming Style](https://github.com/crista/exercises-in-programming-style) - *Comprehensive collection of programming styles using a simple computational task, term frequency.*
 
 ## Languages
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list) - *A curated selection of blog posts on Go.*
