@@ -56,6 +56,8 @@ There are a lot of awesome learning collections out there and I've been having d
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) - Learning CS concepts and coding interviews from YK Sugishita. 
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) - *Bootstrap yourself to write an OS from scratch. A book for self-learner.*
 * [SICP Course](https://github.com/creactiviti/sicp-course) - Self-paced course on Structure and Interpretation of Computer Programs.
+* [Algorithms](https://github.com/marcosfede/algorithms) - *Solved algorithms and data structures problems in many languages.*
+* []
 
 ## Data Science
 * [My Alcamy Data Science Library](https://alcamy.org/library/data-science) - An Alcamy library for learning data science, curated by me.
