@@ -111,6 +111,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [HEAD](https://gethead.info/) - *A free guide to <head> elements.*
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - *The Front-End Checklist Application is perfect for modern websites and meticulous developers!*
 * [Frontend Performance Checklist](https://www.dropbox.com/s/8h9lo8ee65oo9y1/front-end-performance-checklist-2018.pdf?dl=0) - Improve your frontend web performance. Download PDF from the link.
+* [Awesome Prisma](https://www.graph.cool/forum/t/sparkles-awesome-prisma/2878) - An awesome collection of Prisma resources from the GraphCool people themselves.
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
