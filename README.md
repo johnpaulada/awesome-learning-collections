@@ -157,6 +157,7 @@ browse curated lists on GitHub.*
 * [30 Seconds of Python Code](https://github.com/kriadmin/30-seconds-of-python-code) - *Python implementation of 30-seconds-of-code.*
 * [30 Seconds of Java](https://github.com/shekhargulati/30-seconds-of-java) - *Curated collection of useful little Java functions that you can understand quickly.*
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - A pretty comprehensive Python usage cheatsheet without all the noise.
+* [Data Structures and Algorithms in Go](https://github.com/floyernick/Data-Structures-and-Algorithms) - Exactly what it says.
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
