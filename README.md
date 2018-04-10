@@ -151,6 +151,7 @@ browse curated lists on GitHub.*
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - *Roadmap to becoming an iOS developer in 2018.*
 * [Exercises in Programming Style](https://github.com/crista/exercises-in-programming-style) - *Comprehensive collection of programming styles using a simple computational task, term frequency.*
 * [Kubernetes Challenges](https://github.com/DennyZhang/challenges-kubernetes) - Challenge your Kubernetes prowess.
+* [The Bash Guide](http://guide.bash.academy/) - *A quality-driven guide through the shell's many features.*
 
 ## Languages
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list) - *A curated selection of blog posts on Go.*
@@ -160,6 +161,7 @@ browse curated lists on GitHub.*
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - A pretty comprehensive Python usage cheatsheet without all the noise.
 * [Data Structures and Algorithms in Go](https://github.com/floyernick/Data-Structures-and-Algorithms) - Exactly what it says.
 * [Go Styleguide](https://github.com/bahlo/go-styleguide) - *Opinionated Styleguide for the Go language*.
+* [Go 101](https://go101.org/article/101.html) - Learn Go.
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
