@@ -114,6 +114,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Awesome Prisma](https://www.graph.cool/forum/t/sparkles-awesome-prisma/2878) - An awesome collection of Prisma resources from the GraphCool people themselves.
 * [Real World Apps](https://github.com/gothinkster/realworld) - *See how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec 😮😎*.
 * [Learn Storybook](https://www.learnstorybook.com/) - *Learn Storybook to create bulletproof UI components as you build an app UI from scratch.*
+* [Frontend Masters' Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) - *This is a guide that anyone could use to learn about the practice of front-end development.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
