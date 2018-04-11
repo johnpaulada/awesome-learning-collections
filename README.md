@@ -166,6 +166,7 @@ browse curated lists on GitHub.*
 * [Go 101](https://go101.org/article/101.html) - Learn Go.
 * [Gophercises](https://gophercises.com/) - *Coding exercises for budding Gophers*.
 * [Just for Func](https://www.youtube.com/justforfunc) - A YouTube channel dedicated to Go programming.
+* [Try Haskell](https://www.haskellmooc.co.uk/) - Learn Haskell interactively in 5 minutes.
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
