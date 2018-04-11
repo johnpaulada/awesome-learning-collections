@@ -162,6 +162,8 @@ browse curated lists on GitHub.*
 * [Data Structures and Algorithms in Go](https://github.com/floyernick/Data-Structures-and-Algorithms) - Exactly what it says.
 * [Go Styleguide](https://github.com/bahlo/go-styleguide) - *Opinionated Styleguide for the Go language*.
 * [Go 101](https://go101.org/article/101.html) - Learn Go.
+* [Gophercises](https://gophercises.com/) - *Coding exercises for budding Gophers*.
+* [Just for Func](https://www.youtube.com/justforfunc) - A YouTube channel dedicated to Go programming.
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
