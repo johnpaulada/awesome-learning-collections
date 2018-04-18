@@ -189,6 +189,7 @@ browse curated lists on GitHub.*
 ## Cryptocurrency
 * [Cryptominded](https://cryptominded.com) - *A curated directory of the best cryptocurrency resources.*
 * [CryptoList](https://github.com/coinpride/CryptoList) - *Curated collection of blockchain & cryptocurrency resources.*
+* [Learn Blockchain in 2 months](https://github.com/llSourcell/Learn_Blockchain_in_2_months) - Learn Blockchain in 2 months.
 
 ## Business
 * [Buffer's Social Media Academy](https://buffer.academy/) - *Up your social media marketing game, one article at a time.*
