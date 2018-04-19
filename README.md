@@ -199,6 +199,7 @@ browse curated lists on GitHub.*
 
 ## Others
 * [Where is Sci-Hub?](https://whereisscihub.herokuapp.com/) - Tells you where Sci-Hub is hosted right now. 
+* [Learrrn](https://www.learrrn.co/?ref=producthunt) - A curated list of hand-picked learning resources.
 * [Explorable Explanations](http://explorabl.es/) - A collection of interactive learning resources.
 * [Athena](https://www.athena.cool/) - *Athena is a community-curated repository of 🔥 learning resources.*
 * [Learn Anything](https://learn-anything.xyz/) - *the platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.*
