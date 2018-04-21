@@ -117,6 +117,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Learn Storybook](https://www.learnstorybook.com/) - *Learn Storybook to create bulletproof UI components as you build an app UI from scratch.*
 * [Frontend Masters' Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) - *This is a guide that anyone could use to learn about the practice of front-end development.*
 * [RxJS Docs](http://rxjsdocs.com/#/) - A separate, *pretty official* RxJS docs website.
+* [Front-end Design Checklist](https://frontenddesignchecklist.io/) - *The Design Checklist for Creative Web Designers and Patient Front-End Developers.*
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
