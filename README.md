@@ -170,6 +170,7 @@ browse curated lists on GitHub.*
 * [Just for Func](https://www.youtube.com/justforfunc) - A YouTube channel dedicated to Go programming.
 * [Try Haskell](https://www.haskellmooc.co.uk/) - Learn Haskell interactively in 5 minutes.
 * [Project-based Learning](https://github.com/tuvtran/project-based-learning) - Learn languages by building projects.
+* [Clojure-script.org](http://clojure-script.org/) - An unofficial guide to ClojureScript.
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
