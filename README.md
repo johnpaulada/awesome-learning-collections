@@ -150,7 +150,7 @@ browse curated lists on GitHub.*
 * [Daily Programmer on Reddit](https://www.reddit.com/r/dailyprogrammer/) - Great daily programmer challenges on Reddit.
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) - Learn design patterns without the blood, sweat, and tears.
 * [Mega Project List](https://github.com/karan/Projects) - *A list of practical projects that anyone can solve in any programming language.*
-* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - * A collection of (mostly) technical things every software developer should know.*
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - *A collection of (mostly) technical things every software developer should know.*
 * [Codemy](https://www.codemy.net/) - *Our goal is to provide quality, free and / or highly accessible content that anyone can use to build or grow their skills.*
 * [Essential Image Optimization](https://images.guide/) - A modern guide to image optimization.
 * [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
