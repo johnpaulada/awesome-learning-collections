@@ -160,6 +160,7 @@ browse curated lists on GitHub.*
 * [Kubernetes Challenges](https://github.com/DennyZhang/challenges-kubernetes) - Challenge your Kubernetes prowess.
 * [The Bash Guide](http://guide.bash.academy/) - *A quality-driven guide through the shell's many features.*
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x) - Build your own language, server, database, etc. in order to understand them.
+* [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/) - Implementation of famous CS data structures and algorithms in JavaScript.
 
 ## Languages
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list) - *A curated selection of blog posts on Go.*
