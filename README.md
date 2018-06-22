@@ -179,6 +179,7 @@ browse curated lists on GitHub.*
 * [Try Haskell](https://www.haskellmooc.co.uk/) - Learn Haskell interactively in 5 minutes.
 * [Project-based Learning](https://github.com/tuvtran/project-based-learning) - Learn languages by building projects.
 * [Clojure-script.org](http://clojure-script.org/) - An unofficial guide to ClojureScript.
+* [Project-based Learning in C](https://github.com/rby90/Project-Based-Tutorials-in-C) - Learn C by building projects.
 
 ## Design
 * [UI Patterns](http://ui-patterns.com/) - Great collection of UI design patterns and when to use them.
