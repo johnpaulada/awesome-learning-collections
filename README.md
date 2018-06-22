@@ -60,6 +60,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Algorithms](https://github.com/marcosfede/algorithms) - *Solved algorithms and data structures problems in many languages.*
 * [Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months) - *This is the Curriculum for "Learn Computer Science in 5 Months" By Siraj Raval on Youtube*.
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - *Algorithms and data structures implemented in JavaScript with explanations and links to further readings.*
+* [Learn Math Fast](https://github.com/llSourcell/learn_math_fast) - *This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube.*
 
 ## Data Science
 * [My Alcamy Data Science Library](https://alcamy.org/library/data-science) - An Alcamy library for learning data science, curated by me.
