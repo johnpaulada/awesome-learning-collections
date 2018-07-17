@@ -164,6 +164,7 @@ browse curated lists on GitHub.*
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x) - Build your own language, server, database, etc. in order to understand them.
 * [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/) - Implementation of famous CS data structures and algorithms in JavaScript.
 * [Play With Kubernetes Classroom](https://training.play-with-kubernetes.com/) - *The Play with Kubernetes classroom is a new site provided by Docker that helps you get hands-on experience using Kubernetes.*
+* [Interview Map](https://github.com/KieSun/InterviewMap) - A comprehensive mind map that *can help you make a better preparation for the next interview*.
 
 ## Languages
 * [Gopher Reading List](https://github.com/enocom/gopher-reading-list) - *A curated selection of blog posts on Go.*
