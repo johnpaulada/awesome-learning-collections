@@ -123,6 +123,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [RxJS Docs](http://rxjsdocs.com/#/) - A separate, *pretty official* RxJS docs website.
 * [Front-end Design Checklist](https://frontenddesignchecklist.io/) - *The Design Checklist for Creative Web Designers and Patient Front-End Developers.*
 * [Node Best Practices](https://github.com/i0natan/nodebestpractices) - A list of best practices in Node and its ecosystem.
+* [Scaler Topics](https://www.scaler.com/topics/) - Free Programming Tutorials
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
