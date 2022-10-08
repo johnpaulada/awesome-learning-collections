@@ -80,6 +80,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Facebook AI](https://facebook.ai/) - Facebook's AI Tools.
 * [Made with ML](https://madewithml.com) - All about MLOps.
 * [Data Engineering Wiki](https://dataengineering.wiki/Learning+Resources) - *A collection of recommended resources by other Data Engineers.* Learning list from the Data Engineering subreddit.
+* [Official TensorFlow Learning Resources](https://www.tensorflow.org/resources/learn-ml) - *A collection of resources of learning TensorFlow directly from the official TensorFlow website.*
 
 ## Web Development
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
