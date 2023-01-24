@@ -130,6 +130,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Front-end Design Checklist](https://frontenddesignchecklist.io/) - *The Design Checklist for Creative Web Designers and Patient Front-End Developers.*
 * [Node Best Practices](https://github.com/i0natan/nodebestpractices) - A list of best practices in Node and its ecosystem.
 * [Scaler Topics](https://www.scaler.com/topics/) - Free Programming Tutorials
+* [Web Development Books](https://www.interviewbit.com/blog/web-development-books/) - Best Web Development Books
 
 ## Software Development
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Learn how to be a programmer with this collection of resources.
